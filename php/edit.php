@@ -11,9 +11,9 @@
     $sql = $sql = "UPDATE Todos SET content = '$todoPronto' WHERE id = '$idPronto'"; //Comando mysql atribuido a uma variavel.
 
     if ($link->query($sql)){ //Verificando se a query teve exito.
-        header ('Location: ../paginas/index.php?sucesso'); //Voltando a index e passando uma mensagem de sucesso pela URL.
+        header ('Location: ../index.php?sucesso'); //Voltando a index e passando uma mensagem de sucesso pela URL.
     }else{
-        header ('Location: ../paginas/index.php?error'); //Voltando a index e passando uma mensagem de erro pela URL.
+        header ('Location: ../index.php?error'); //Voltando a index e passando uma mensagem de erro pela URL.
     };
     
 ?>
