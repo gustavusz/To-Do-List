@@ -26,7 +26,7 @@
     <br>
     <div class="row">
         <!-- Link para retornar ao Index. -->
-        <a href="index.php" class="col s12 btn blue">
+        <a href="../index.php" class="col s12 btn blue">
         <i class="material-icons">keyboard_backspace</i>  
         </a>
     </div>
