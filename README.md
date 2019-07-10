@@ -1,4 +1,5 @@
 To-do List Project
 
-Um aplicativo de anotações basico, feito para aplicação de conhecimentos. 
+Primeiro repositório e primeiro CRUD feito por mim que consiste em aplicativo de anotações basico, feito para aplicação de conhecimentos. 
+
 Tecnologias utilizadas: PHP, Materialize CSS
